@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
         <meta charset="UTF-8">
         <title>Home – STEEL</title>
@@ -12,10 +12,10 @@
         $less = new lessc;
         $less->compileFile('less/827.less', 'css/827.css');
         ?>
-        <link href="css/827.css" rel="stylesheet"  />
-        <script src="js/jquery-2.1.4.min.js" ></script>
-        <script src="js/bootstrap.min.js" ></script>
-        <script src="js/js.js" ></script>
+        <link href="css/827.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
+        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/js.js" type="text/javascript"></script>
     </head>
 
     <body>
@@ -30,7 +30,7 @@
                                         <div class="cameraCont">
                                             <div class="carousel-inner">
                                                 <div class="item active">
-                                                    <img src="images/slider-3.jpg" class="imgLoaded" alt="img-3">
+                                                    <img src="images/slider-3.jpg" class="imgLoaded">
                                                     <div class="camerarelative" ></div>
                                                     <div class=" carousel-caption">
                                                         <h1>ALL KINDS OF STEEL PRODUCTS</h1>
@@ -38,7 +38,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="item">
-                                                    <img src="images/slider-1.jpg" class="imgLoaded" alt="img-1">
+                                                    <img src="images/slider-1.jpg" class="imgLoaded">
                                                     <div class="camerarelative"></div>
                                                     <div class="carousel-caption">
                                                         <h1>STEEL’S BRANDED PRODUCTS AND SOLUTIONS</h1>
@@ -46,7 +46,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="item">
-                                                    <img src="images/slider-2.jpg" class="imgLoaded" alt="img-2">
+                                                    <img src="images/slider-2.jpg" class="imgLoaded">
                                                     <div class="camerarelative"></div>
                                                     <div class="carousel-caption">
                                                         <h1>OUR MAIN GOAL IS CONTINUOUSLY SATISFY OUR CLIENTS</h1>
@@ -56,8 +56,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="camera_prev"  data-slide="prev" onclick="plusSlides(-1)"><span></span></div>
-                                    <div class="camera_next"  data-slide="next" onclick="plusSlides(-1)"><span></span></div>
+                                    <div class="camera_prev" href="#carousel-example-generic" data-slide="prev"><span></span></div>
+                                    <div class="camera_next" href="#carousel-example-generic" data-slide="next" ><span></span></div>
                                     <ol class="carousel-indicators">
                                         <li data-target="#carousel-example-generic" data-slide-to="0" class="active">
                                             <span><span>0</span></span>
@@ -68,8 +68,8 @@
                                         <li data-target="#carousel-example-generic" data-slide-to="2">
                                             <span><span>2</span></span>
                                         </li>
+                                        <div class="timer"></div>
                                     </ol>
-                                    <div class="timer"></div>
                                 </div>
                             </div>
                         </div>
