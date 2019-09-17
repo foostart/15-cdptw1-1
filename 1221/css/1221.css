@@ -1,0 +1,67 @@
+.type-1221 {
+  background-color: #f9f9f9 !important;
+}
+.type-1221 .title h4 span.standard {
+  color: #fdd000;
+}
+.type-1221 .char {
+  padding: 0;
+}
+.type-1221 .title h4 {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+}
+.type-1221 .title {
+  position: relative;
+}
+.type-1221 h4:after {
+  position: absolute;
+  display: block;
+  content: "";
+  width: 100px;
+  height: 2px;
+  left: 50%;
+  bottom: -10px;
+  margin-left: -50px;
+  background-color: #fdd000;
+}
+.type-1221 .text {
+  text-align: center;
+  margin-top: 30px;
+}
+.type-1221 .row {
+  text-align: center;
+}
+.type-1221 thead>tr>th {
+  text-align: center;
+}
+.type-1221 .table-striped > tbody > tr:nth-child(odd) {
+  background-color: rgba(0,0,0,0.05);
+}
+.type-1221 .table-striped > tbody > tr:nth-child(odd):hover {
+  background-color: #d0cdcd;
+}
+.type-1221 .table-striped > tbody > tr:nth-child(even):hover {
+  background-color: #fff;
+}
+.type-1221 .table-striped > thead > tr > th {
+  background-color: #39C;
+  color: #fff;
+}
+.type-1221 .table-bordered>thead>tr>th {
+  border-bottom: 0px ! important;
+}
+@media (min-width: 770px) {
+  .type-1221 .table {
+    margin-left: 15px;
+    margin-right: 15px;
+    max-width: 97.5%;
+  }
+}
+@media (max-width: 765px) {
+  .type-1221 .row {
+    margin: 15px;
+  }
+}
