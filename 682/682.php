@@ -56,8 +56,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="camera_prev" href="#carousel-example-generic" data-slide="prev"><span></span></div>
-                                    <div class="camera_next" href="#carousel-example-generic" data-slide="next" ><span></span></div>
+                                    <div class="camera_prev"  data-slide="prev"><span></span></div>
+                                    <div class="camera_next"  data-slide="next" ><span></span></div>
                                     <ol class="carousel-indicators">
                                         <li data-target="#carousel-example-generic" data-slide-to="0" class="active">
                                             <span><span>0</span></span>
@@ -68,8 +68,8 @@
                                         <li data-target="#carousel-example-generic" data-slide-to="2">
                                             <span><span>2</span></span>
                                         </li>
-                                        <div class="timer"></div>
                                     </ol>
+                                     <div class="timer"></div>
                                 </div>
                             </div>
                         </div>
