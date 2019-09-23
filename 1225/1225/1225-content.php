@@ -1,10 +1,7 @@
 <?php
-include '../config.php';
-
 $url_host = 'http://' . $_SERVER['HTTP_HOST'];
-$pattern_document_root = addcslashes(realpath($_SERVER['DOCUMENT_ROOT']), $sala);
+$pattern_document_root = addcslashes(realpath($_SERVER['DOCUMENT_ROOT']), '\\');
 $pattern_uri = '/' . $pattern_document_root . '(.*)$/';
-
 preg_match_all($pattern_uri, __DIR__, $matches);
 $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
@@ -29,6 +26,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <li><a data-toggle="tab" href="#menu2">Kỹ thuật</a></li>
                         <li><a data-toggle="tab" href="#menu3">Chất lượng</a></li>
                         <li><a data-toggle="tab" href="#menu4">Tài chính</a></li>
+                        <li><a data-toggle="tab" href="#menu5">Nhân viên</a></li>
                     </ul>
                     <!--/TAB-->
                     <!--ITEMS-->
@@ -58,9 +56,33 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <!--/IMG-->
                                             <!--DETAIL-->
                                             <div class="detail">
-                                                <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
+                                                <h3 class="detail-title">LÊ VIỆT HOÀNG</h3>
                                                 <p class="detail-desc">
                                                     Tổng giám đốc
+                                                </p>
+                                                <span class="price">
+                                                    <span class="amount">Tốt nghiệp Cao đẳng Công Nghệ Thủ Đức khóa 2017</span>
+                                                </span>
+                                            </div>
+                                            <!--/DETAIL-->
+                                        </div>
+                                    </div>
+                                    <!--/ITEM-->
+                                    <!--ITEM-->
+                                    <div class="col-md-4 col-sm-6 product">
+                                        <div class="product-list-item">
+                                            <!--IMG-->
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="<?php echo $url_path ?>/images/designer_data-279.jpg" alt="" class="">
+                                                </a>
+                                            </div>
+                                            <!--/IMG-->
+                                            <!--DETAIL-->
+                                            <div class="detail">
+                                                <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
+                                                <p class="detail-desc">
+                                                    Giám đốc kinh doanh
                                                 </p>
                                                 <span class="price">
                                                     <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
@@ -76,7 +98,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <!--IMG-->
                                             <div class="image">
                                                 <a href="#">
-                                                    <img src="<?php echo $url_path ?>/images/designer_data-3.jpg" alt="" class="">
+                                                    <img src="<?php echo $url_path ?>/images/designer_data-284.jpg" alt="" class="">
                                                 </a>
                                             </div>
                                             <!--/IMG-->
@@ -118,7 +140,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <!--IMG-->
                                             <div class="image">
                                                 <a href="#">
-                                                    <img src="<?php echo $url_path ?>/images/designer_data-3.jpg" alt="" class="">
+                                                    <img src="<?php echo $url_path ?>/images/designer_data-23.jpg" alt="" class="">
                                                 </a>
                                             </div>
                                             <!--/IMG-->
@@ -127,6 +149,30 @@ $url_path = str_replace('\\', '/', $url_path);
                                                 <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
                                                 <p class="detail-desc">
                                                     Tổng giám đốc
+                                                </p>
+                                                <span class="price">
+                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                </span>
+                                            </div>
+                                            <!--/DETAIL-->
+                                        </div>
+                                    </div>
+                                    <!--/ITEM-->
+                                    <!--ITEM-->
+                                    <div class="col-md-4 col-sm-6 product">
+                                        <div class="product-list-item">
+                                            <!--IMG-->
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="<?php echo $url_path ?>/images/designer_data-3.jpg" alt="" class="">
+                                                </a>
+                                            </div>
+                                            <!--/IMG-->
+                                            <!--DETAIL-->
+                                            <div class="detail">
+                                                <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
+                                                <p class="detail-desc">
+                                                    Giám đốc kinh doanh
                                                 </p>
                                                 <span class="price">
                                                     <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
@@ -296,6 +342,71 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                         </div>
                         <!--/TAI CHINH-->
+                        <!--NHAN VIEN-->
+                       <div id="menu5" class="tab-pane fade">
+                            <!--/ESUM-->
+                            <div class="esum">
+                                <h3 class="exam">Ban nhan vine</h3>
+                                <div class="border"></div>
+                                <p>
+                                    Quản lý nhan vien công ty
+                                </p>
+                            </div>
+                            <!--/ESUM-->
+                            <div class="related">
+                                <div class="row products">
+                                    <!--ITEM-->
+                                    <div class="col-md-4 col-sm-6 product">
+                                        <div class="product-list-item">
+                                            <!--IMG-->
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="<?php echo $url_path ?>/images/designer_data-71.jpg" alt="" class="">
+                                                </a>
+                                            </div>
+                                            <!--/IMG-->
+                                            <!--DETAIL-->
+                                            <div class="detail">
+                                                <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
+                                                <p class="detail-desc">
+                                                    Tổng giám đốc
+                                                </p>
+                                                <span class="price">
+                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                </span>
+                                            </div>
+                                            <!--/DETAIL-->
+                                        </div>
+                                    </div>
+                                    <!--/ITEM-->
+                                    <!--ITEM-->
+                                    <div class="col-md-4 col-sm-6 product">
+                                        <div class="product-list-item">
+                                            <!--IMG-->
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="<?php echo $url_path ?>/images/designer_data-3.jpg" alt="" class="">
+                                                </a>
+                                            </div>
+                                            <!--/IMG-->
+                                            <!--DETAIL-->
+                                            <div class="detail">
+                                                <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
+                                                <p class="detail-desc">
+                                                    Giám đốc kinh doanh
+                                                </p>
+                                                <span class="price">
+                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                </span>
+                                            </div>
+                                            <!--/DETAIL-->
+                                        </div>
+                                    </div>
+                                    <!--/ITEM-->
+                                </div>
+                            </div>
+                        </div>
+                        <!--/NHAN VIEN-->
                     </div>
                     <!--/ITEMS-->
                 </div>
