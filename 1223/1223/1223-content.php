@@ -174,7 +174,7 @@ $url_path = $url_host . $matches[1][0];
                         <div class="fb-comments">
                             <div class="fb_iframe_widget">
                                 <span>
-                                    <iframe src="./images/widget-link.png"></iframe>
+                                    <iframe src="./images/fb.jpg"></iframe>
                                 </span>
                             </div>
                         </div>
