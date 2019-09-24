@@ -22,8 +22,8 @@ $url_path = $url_host . $matches[1][0];
      <div class=" row clearfix">
         <div class="container">
             <div class="row">
-                <div class="col-md-10">
-                    <div class="col-md-2">
+                <div class="col-md-10 ">
+                    <div class="col-md-2 col-xm-4 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -53,7 +53,7 @@ $url_path = $url_host . $matches[1][0];
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-xm-4 col-xs-4">
                         <div class="widget">
                              <h3>Test</h3>
                             <ul>
@@ -71,19 +71,9 @@ $url_path = $url_host . $matches[1][0];
                                     <a href="#">test</a>
                                 </li>
                             </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
                         </div>
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-xm-4 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -111,11 +101,6 @@ $url_path = $url_host . $matches[1][0];
                                     <a href="#">test</a>
                                 </li>
                             </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <div class="widget">
-                            <h3>Test</h3>
                             <ul>
                                 <li>
                                     <a href="#">test</a>
@@ -143,7 +128,7 @@ $url_path = $url_host . $matches[1][0];
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-xm-4 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -156,6 +141,11 @@ $url_path = $url_host . $matches[1][0];
                                     <a href="#">test</a>
                                 </li>
                             </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-xm-4 col-xs-4">
+                        <div class="widget">
+                            <h3>Test</h3>
                             <ul>
                                 <li>
                                     <a href="#">test</a>
@@ -174,7 +164,7 @@ $url_path = $url_host . $matches[1][0];
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2 ">
                     <div class="footer">
                         <div class="line"></div>
                         <div class="line1"></div>
