@@ -13,9 +13,11 @@
         $less->compileFile('less/827.less', 'css/827.css');
         ?>
         <link href="css/827.css" rel="stylesheet" type="text/css" />
+        <link href="css/swiper.min.css" rel="stylesheet" type="text/css" />
         <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
         <script src="js/js.js" type="text/javascript"></script>
+        <script src="js/swiper.min.js" type="text/javascript"></script>
     </head>
 
     <body>
