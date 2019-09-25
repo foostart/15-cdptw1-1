@@ -56,12 +56,12 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <!--/IMG-->
                                             <!--DETAIL-->
                                             <div class="detail">
-                                                <h3 class="detail-title">LÊ VIỆT HOÀNG</h3>
+                                                <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
                                                     Tổng giám đốc
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Cao đẳng Công Nghệ Thủ Đức khóa 2017</span>
+                                                    <span class="amount">ốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -172,7 +172,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                         Giám đốc kinh doanh
                                                 </p>
                                                 <span class="price">
                                                     <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
@@ -346,10 +346,10 @@ $url_path = str_replace('\\', '/', $url_path);
                        <div id="menu5" class="tab-pane fade">
                             <!--/ESUM-->
                             <div class="esum">
-                                <h3 class="exam">Ban nhan vine</h3>
+                                <h3 class="exam">Ban nhân viên</h3>
                                 <div class="border"></div>
                                 <p>
-                                    Quản lý nhan vien công ty
+                                    Quản lý nhân viên công ty
                                 </p>
                             </div>
                             <!--/ESUM-->
