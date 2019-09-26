@@ -90,9 +90,3 @@ $(function () {
 
     }
 });
-    var swiper = new Swiper('.camera_target', {
-       navigation: {
-        nextEl: '.camera_next',
-        prevEl: '.camera_prev',
-      },
-});
