@@ -1,4 +1,25 @@
-/* Slider (work in progress)
+
+$(document).ready(function () {
+    
+    var mySwiper = new Swiper ('.swiper-container', {
+      direction: 'horizontal',
+      loop: true,
+            pagination: {
+      el: '.swiper-pagination',
+    },
+    slidesPerView: 1,
+    slidesPerGroup: 1,
+
+    spaceBetween: 2,
+
+          navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+
+    });
+  });
+  /* Slider (work in progress)
  * 03/09/2015 by Andrew Errico
  */
 $(function () {
@@ -90,3 +111,6 @@ $(function () {
 
     }
 });
+
+
+

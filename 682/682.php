@@ -28,6 +28,7 @@
         <script src="<?php echo $url_path ?>/js/jquery-3.1.1.min.js"></script>
         <script src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
         <script src="<?php echo $url_path ?>/js/swiper.min.js"></script>
+        <script src="<?php echo $url_path ?>/js/swiper.js" ></script>
         <link href="<?php echo $url_path ?>/css/swiper.min.css" rel="stylesheet" type="text/css" />
         <link href="<?php echo $url_path ?>/css/swiper.css" rel="stylesheet" type="text/css" />
         <script src="<?php echo $url_path ?>/js/827.js"></script>
