@@ -23,7 +23,7 @@ $url_path = $url_host . $matches[1][0];
         <div class="container">
             <div class="row">
                 <div class="col-md-10 ">
-                    <div class="col-md-2 col-xm-4 col-xs-4">
+                    <div class="col-md-2 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -53,7 +53,7 @@ $url_path = $url_host . $matches[1][0];
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2 col-xm-4 col-xs-4">
+                    <div class="col-md-2 col-xs-4">
                         <div class="widget">
                              <h3>Test</h3>
                             <ul>
@@ -73,7 +73,7 @@ $url_path = $url_host . $matches[1][0];
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2 col-xm-4 col-xs-4">
+                    <div class="col-md-2 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -91,44 +91,9 @@ $url_path = $url_host . $matches[1][0];
                                     <a href="#">test</a>
                                 </li>
                             </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">test</a>
-                                </li>
-                            </ul>
                         </div>
                     </div>
-                    <div class="col-md-2 col-xm-4 col-xs-4">
+                    <div class="col-md-2 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -143,7 +108,7 @@ $url_path = $url_host . $matches[1][0];
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2 col-xm-4 col-xs-4">
+                    <div class="col-md-2 col-xs-4">
                         <div class="widget">
                             <h3>Test</h3>
                             <ul>
@@ -169,12 +134,10 @@ $url_path = $url_host . $matches[1][0];
                         <div class="line"></div>
                         <div class="line1"></div>
                         <div class="line2"></div>
-                        <div class="fb-page">
-                        </div>
                         <div class="fb-comments">
                             <div class="fb_iframe_widget">
                                 <span>
-                                    <iframe src="./images/fb.jpg"></iframe>
+                                    <iframe src="./images/fb.jpg" ></iframe>
                                 </span>
                             </div>
                         </div>
