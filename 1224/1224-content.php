@@ -48,7 +48,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -86,7 +86,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -124,7 +124,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -175,7 +175,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -213,7 +213,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -251,7 +251,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -302,7 +302,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -340,7 +340,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -378,7 +378,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -429,7 +429,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -467,7 +467,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -505,7 +505,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -556,7 +556,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -594,7 +594,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
@@ -632,7 +632,7 @@
                                     <!--ITEM-->
                                     <div class="col-md-4 col-sm-6 product">
                                         <div class="portfolio-overlay" data-lightbox="gallery">
-                                            <a href="#" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+                                            <a href="#" class="center-icon"></a>
                                         </div>
 
                                         <!--SINGLE-->
