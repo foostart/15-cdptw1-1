@@ -49,8 +49,6 @@
 .type-1221 .table-striped > thead > tr > th {
   background-color: #39C;
   color: #fff;
-}
-.type-1221 .table-bordered>thead>tr>th {
   border-bottom: 0px ! important;
 }
 @media (min-width: 770px) {
