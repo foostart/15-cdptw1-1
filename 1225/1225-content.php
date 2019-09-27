@@ -58,10 +58,17 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Tổng giám đốc
+                                                    <a href="#">
+                                                     Tổng giám đốc
+                                                    </a>
+     
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">ốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount">
+                                                        <a href="">
+                                                            tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009
+                                                        </a>
+                                                    </span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -79,13 +86,20 @@ $url_path = str_replace('\\', '/', $url_path);
                                             </div>
                                             <!--/IMG-->
                                             <!--DETAIL-->
-                                            <div class="detail">
+                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                    <a href="#">
+                                                     Tổng giám đốc
+                                                    </a>
+     
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount">
+                                                        <a href="">
+                                                            tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009
+                                                        </a>
+                                                    </span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -103,13 +117,20 @@ $url_path = str_replace('\\', '/', $url_path);
                                             </div>
                                             <!--/IMG-->
                                             <!--DETAIL-->
-                                            <div class="detail">
+                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                    <a href="#">
+                                                     Tổng giám đốc
+                                                    </a>
+     
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount">
+                                                        <a href="">
+                                                            tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009
+                                                        </a>
+                                                    </span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -148,10 +169,10 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
                                                 <p class="detail-desc">
-                                                    Tổng giám đốc
+                                                    <a href="#">Tổng giám đốc</a>
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -172,10 +193,10 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                         Giám đốc kinh doanh
+                                                        <a href="">Giám đốc kinh doanh</a> 
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -196,12 +217,11 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                        <a href="">Giám đốc kinh doanh</a> 
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
-                                            </div>
                                             <!--/DETAIL-->
                                         </div>
                                     </div>
@@ -236,12 +256,12 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <!--/IMG-->
                                             <!--DETAIL-->
                                             <div class="detail">
-                                                <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
+                                                <h3 class="detail-title"><a href="#">THÁI TRUNG KIÊN</a></h3>
                                                 <p class="detail-desc">
                                                     Tổng giám đốc
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -259,15 +279,14 @@ $url_path = str_replace('\\', '/', $url_path);
                                             </div>
                                             <!--/IMG-->
                                             <!--DETAIL-->
-                                            <div class="detail">
+                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                        <a href="">Giám đốc kinh doanh</a> 
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
-                                            </div>
                                             <!--/DETAIL-->
                                         </div>
                                     </div>
@@ -302,12 +321,12 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <!--/IMG-->
                                             <!--DETAIL-->
                                             <div class="detail">
-                                                <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
+                                                <h3 class="detail-title"><a href="#">THÁI TRUNG KIÊN</a></h3>
                                                 <p class="detail-desc">
                                                     Tổng giám đốc
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -328,10 +347,11 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                    <a href="">Giám đốc kinh doanh</a>
+                                                    
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -369,10 +389,11 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">THÁI TRUNG KIÊN</h3>
                                                 <p class="detail-desc">
-                                                    Tổng giám đốc
+                                                    <a href="#">Tổng giám đốc</a>
+                                                    
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
@@ -393,10 +414,11 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <div class="detail">
                                                 <h3 class="detail-title">BÙI QUỐC TRIỀU</h3>
                                                 <p class="detail-desc">
-                                                    Giám đốc kinh doanh
+                                                    <a href="#">Giám đốc kinh doanh</a>
+                                                    
                                                 </p>
                                                 <span class="price">
-                                                    <span class="amount">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</span>
+                                                    <span class="amount"><a href="#">Tốt nghiệp Đại học Kiến Trúc Tp.HCM, Khóa 2009</a></span>
                                                 </span>
                                             </div>
                                             <!--/DETAIL-->
