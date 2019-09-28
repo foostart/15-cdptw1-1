@@ -12,7 +12,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="type-827">
-    <div class="container">               
+    <div class="container">      
         <div class="swiper-container">
             <div class="swiper-wrapper nav nav-tabs">                                      
                 <div class="swiper-slide" >
@@ -23,8 +23,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <p>Donec porta diam eumassauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p>
                         <div class="carousel-indicators"></div>
                     </div>
-                </div>
-                                                   
+                </div>                               
                 <div class="swiper-slide" >
                     <img src="images/slider-1.jpg" class="imgLoaded">
                     <div class="camerarelative"></div>
@@ -34,10 +33,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="carousel-indicators"></div>
                     </div>
                 </div>
-
-
                 <div class="swiper-slide" >
-
                     <img src="images/slider-3.jpg" class="imgLoaded">
                     <div class="camerarelative"></div>
                     <div class="carousel-caption">
@@ -46,7 +42,6 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="carousel-indicators"></div>
                     </div>
                 </div>
-
             </div>
             <div class="swiper-pagination"></div>
             <div class="swiper-button-prev" ></div>

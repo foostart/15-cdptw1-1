@@ -62,14 +62,41 @@
   text-align: center;
   background: rgba(0,0,0,0.4);
 }
-.type-827 .swiper-button-next .swiper-button-prev {
-  border: #b7b7b7;
+.type-827 .swiper-button-prev {
+  background: url(../images/camera_skins.png) no-repeat 0 0;
+  display: block;
+  height: 40px;
+  width: 40px;
+  left: 0;
+  background-position: 0 -240px;
+}
+.type-827 .swiper-button-next {
+  background: url(../images/camera_skins.png) no-repeat -40px 0;
+  display: block;
+  height: 40px;
+  width: 40px;
+  right: 0;
+  background-position: 0 -240px;
+}
+.type-827 .swiper-button-prev,
+.type-827 .swiper-button-next {
+  background: rgba(216,216,216,0.85);
+  cursor: pointer;
+  height: 40px;
+  margin-top: -20px;
+  position: absolute;
+  top: 50%;
+  width: 40px;
+  z-index: 2;
 }
 .type-827 .swiper-pagination-bullet {
   width: 15px;
   height: 15px;
-  background: #fde230;
+  background: #fceb04e7;
   float: right;
+}
+.type-827 .swiper-pagination-bullet:hover {
+  background: #f9fc0cfa;
 }
 .type-827 .carousel-indicators {
   width: 2000px;

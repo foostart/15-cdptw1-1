@@ -111,6 +111,16 @@ $(function () {
 
     }
 });
+// swiper-wrapper
+$(".swiper-wrapper > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('.swiper-wrapper > div:first')
+    .fadeOut(3000)
+    .next()
+    .fadeIn(3000)
+    .appendTo('.swiper-wrapper');
+},  3000);
 
 
 
