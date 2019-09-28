@@ -95,7 +95,6 @@
     padding-bottom: 50px;
   }
 }
-.type-1223 .fb-comments,
 .type-1223 .fb_iframe_widget,
 .type-1223 .fb-comments > span,
 .type-1223 .fb_iframe_widget > span,
@@ -106,4 +105,5 @@
   right: 50px;
   width: 300px;
   height: 350px;
+  overflow: auto;
 }
